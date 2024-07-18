@@ -1,2 +1,2 @@
-# SARIMAX Goal Setting
- Using SARIMAX Model to generate predictions. Months has seasonality.
+Multivariate Regression Model to draw relationships between spend and website metrics. 
+***Data has been masked and randomized for confidentiality***
